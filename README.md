@@ -1,6 +1,6 @@
 # Todo-List
 
-## Run the following commands int the project directory
+## Run the following commands in the project directory
 
 ### to fetch and install dependencies 
 
