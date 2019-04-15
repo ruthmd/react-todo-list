@@ -8,7 +8,7 @@
 npm install
 ```
 
-### to ruun the application
+### to run the application
 
 ```
 npm start .
